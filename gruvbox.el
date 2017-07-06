@@ -183,6 +183,13 @@
      (js2-jsdoc-html-tag-name                   (:background nil :foreground gruvbox-light4))
      (js2-jsdoc-html-tag-delimiter              (:background nil :foreground gruvbox-light3))
 
+     ;; haskell
+     (haskell-keyword-face                      (:foreground gruvbox-neutral_red))
+     (haskell-type-face                         (:foreground gruvbox-neutral_yellow))
+     (haskell-constructor-face                  (:foreground gruvbox-neutral_yellow))
+     (haskell-operator-face                     (:foreground gruvbox-faded_blue))
+     (haskell-pragma-face                       (:foreground gruvbox-gray))
+
      ;; popup
      (popup-face                                (:underline nil :foreground gruvbox-light1 :background gruvbox-dark1))
      (popup-menu-mouse-face                     (:underline nil :foreground gruvbox-light0 :background gruvbox-faded_green))
