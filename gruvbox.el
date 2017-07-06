@@ -189,6 +189,7 @@
      (haskell-constructor-face                  (:foreground gruvbox-neutral_yellow))
      (haskell-operator-face                     (:foreground gruvbox-faded_blue))
      (haskell-pragma-face                       (:foreground gruvbox-gray))
+     (haskell-literate-comment-face             (:foreground gruvbox-gray))
 
      ;; popup
      (popup-face                                (:underline nil :foreground gruvbox-light1 :background gruvbox-dark1))
